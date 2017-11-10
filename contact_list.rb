@@ -17,5 +17,5 @@ case user_input
     puts 'thanks for contact listing...'
     exit
   else
-    puts 'Bad Input'
+    puts 'Bad Input. Try again.'
 end
